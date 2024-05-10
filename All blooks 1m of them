@@ -7,7 +7,7 @@ javascript: (() => {
 
     let blookData = {};
     blooks.forEach(e => {
-        blookData[e] = 1;
+        blookData[e] = 1000000;
     });
 
     let {
